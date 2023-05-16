@@ -1,4 +1,4 @@
-### 👋 Hi there 👋
+### 👋 Hi thedre 👋
 
 <!--
 **dnjs2721/dnjs2721** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
