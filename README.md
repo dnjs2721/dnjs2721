@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 # 💻 Tech Stack:
 <a href="https://dev.java/"><img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white"/></a> <a href="https://www.python.org/"><img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/></a> <a href="https://www.thymeleaf.org/"><img src="https://img.shields.io/badge/Thymeleaf-%23005C0F.svg?style=for-the-badge&logo=Thymeleaf&logoColor=white"/></a> <a href="https://spring.io/"><img src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white"/></a> <a href="https://redis.io/"><img src="https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white"/></a> <a href="https://mariadb.org/"><img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white"/></a> <a href="https://www.mysql.com/"><img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white"/></a> <br/>
-<img src="https://img.shields.io/badge/-Spring%20Data%20JPA-brightgreen"><img src="https://img.shields.io/badge/-Querydsl-critical">
+<img src="https://img.shields.io/badge/-Spring%20Data%20JPA-brightgreen?style=for-the-badge"><img src="https://img.shields.io/badge/-Querydsl-critical?style=for-the-badge">
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=dnjs2721&theme=dark&hide_border=fals)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=dnjs2721&theme=dark&hide_border=false&layout=compact)
