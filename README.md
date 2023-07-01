@@ -21,6 +21,6 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/Intellij-blueviolet?style=for-the-badge&logo=intellijidea&logoColor=white"/> <img src="https://img.shields.io/badge/vscode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/> <img src="https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/> <img src="https://img.shields.io/badge/postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/> 
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats-one-omega-45.vercel.app/api?username=dnjs2721&theme=dark&hide_border=fals)
-![](https://github-readme-stats-one-omega-45.vercel.appapi/top-langs/?username=dnjs2721&theme=dark&hide_border=false&layout=compact)
+![](https://github-readme-stats-one-omega-45.vercel.app/api?username=dnjs2721&theme=dark&hide_border=false)
+![](https://github-readme-stats-one-omega-45.vercel.app/api/top-langs/?username=dnjs2721&theme=dark&hide_border=false&layout=compact)
  
